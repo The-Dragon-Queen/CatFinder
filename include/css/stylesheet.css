@@ -1,0 +1,28 @@
+body{
+color: #111111;
+}
+
+.container{
+      width: 1000px;
+      display: -webkit-box;
+      margin-left: 40%;
+      margin-right: 40%;
+      margin-top: 40%;
+}
+
+form {
+      display: block;
+    	width: auto;
+      max-width: 784px;
+      overflow: hidden;
+}
+
+label {
+      display: block;
+      font: 1rem 'Fira Sans', sans-serif;
+
+}
+
+input, label {
+       margin: .4rem 0;
+}
