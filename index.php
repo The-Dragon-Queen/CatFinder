@@ -1,10 +1,14 @@
-<html>
+<html lang="en">
     <head>
-        <title>Search | Cat Finder</title>
+          <link rel="stylesheet" type="text/css" href="include/css/stylesheet.css">
+          <title>Search | Cat Finder</title>
     </head>
     <body>
-        <label for="site-search">Search Cat Videos</label>
-        <input type="search" id="cat-search" name="catfinder"><button>Search</button>
-    
+        <div class="container">
+            <form>
+                  <label for="cat-search">Search Cat Videos</label>
+                  <input type="search" id="cat-search" name="catfinder"><button>Search</button>
+            </form>
+        </div>
     </body>
 </html>
